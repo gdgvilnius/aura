@@ -1,55 +1,55 @@
 [
     {
-        "name":"Name",
-        "designation":"Front End Developer",
-        "twitter":"https://twitter.com/vrijrajsingh",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
-        "profileImage":"",
-        "website":""
-    },
-    {
-        "name":"Name",
-        "designation":"Front End Developer",
-        "twitter":"https://twitter.com/vrijrajsingh",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
-        "profileImage":"",
-        "website":""
-    },
-    {
-        "name":"Name",
-        "designation":"Front End Developer",
-        "twitter":"https://twitter.com/vrijrajsingh",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
-        "profileImage":"",
-        "website":""
-    },
-    {
-        "name":"Name",
-        "designation":"Front End Developer",
+        "name":"Vilius Kraujutis",
+        "designation":"Developer",
         "twitter":"",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
+        "linkedin":"",
+        "github":"",
         "profileImage":"",
         "website":""
     },
     {
-        "name":"Name",
-        "designation":"Front End Developer",
-        "twitter":"https://twitter.com/vrijrajsingh",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
+        "name":"Irena Poškienė",
+        "designation":"Developer",
+        "twitter":"",
+        "linkedin":"",
+        "github":"",
         "profileImage":"",
         "website":""
     },
     {
-        "name":"Name",
-        "designation":"Front End Developer",
-        "twitter":"https://twitter.com/vrijrajsingh",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
+        "name":"Roman Kononov",
+        "designation":"Developer",
+        "twitter":"",
+        "linkedin":"",
+        "github":"",
+        "profileImage":"",
+        "website":""
+    },
+    {
+        "name":"Paulius Sasnauskas",
+        "designation":"Student at Vilnius University",
+        "twitter":"",
+        "linkedin":"",
+        "github":"",
+        "profileImage":"",
+        "website":""
+    },
+    {
+        "name":"Martynas Bardauskas",
+        "designation":"Software Engineer",
+        "twitter":"",
+        "linkedin":"",
+        "github":"",
+        "profileImage":"",
+        "website":""
+    },
+    {
+        "name":"Justas Medeišis",
+        "designation":"Software Engineer",
+        "twitter":"",
+        "linkedin":"",
+        "github":"",
         "profileImage":"",
         "website":""
     }
