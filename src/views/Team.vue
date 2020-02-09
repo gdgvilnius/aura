@@ -43,6 +43,7 @@ import otherTeam from '@/components/team/otherTeam'
   export default {
     components: {
       coreTeam,
+      // eslint-disable-next-line
       otherTeam
     },
     data() {
