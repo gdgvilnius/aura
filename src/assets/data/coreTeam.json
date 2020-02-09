@@ -3,10 +3,11 @@
         "name":"Vilius Kraujutis",
         "designation":"Software Development Manager at Shift4 Payments Lithuania",
         "twitter":"https://twitter.com/viliusk",
-        "linkedin":"http://linkedin.com/in/viliusk",
-        "github":"github.com/ViliusKraujutis/",
-        "profileImage":"https://s.gravatar.com/avatar/40373a54047b01d49adbe4230abdef43?s=580",
-        "website":"fb.me/viliusk"
+        "linkedin":"https://linkedin.com/in/viliusk/",
+        "github":"https://github.com/ViliusKraujutis/",
+        "facebook":"https://fb.me/viliusk",
+        "profileImage":"viliusk.jpg",
+        "website":""
     },
     {
         "name":"Irena Poškienė",
@@ -14,6 +15,7 @@
         "twitter":"",
         "linkedin":"",
         "github":"",
+        "facebook":"",
         "profileImage":"",
         "website":""
     },
@@ -23,6 +25,7 @@
         "twitter":"",
         "linkedin":"",
         "github":"",
+        "facebook":"",
         "profileImage":"",
         "website":""
     },
@@ -30,8 +33,9 @@
         "name":"Paulius Sasnauskas",
         "designation":"Student at Vilnius University",
         "twitter":"",
-        "linkedin":"",
-        "github":"",
+        "linkedin":"https://www.linkedin.com/in/pauliussasnauskas/",
+        "github":"https://github.com/PauliusSasnauskas",
+        "facebook":"https://www.facebook.com/profile.php?id=100001362083156",
         "profileImage":"",
         "website":""
     },
@@ -41,6 +45,7 @@
         "twitter":"",
         "linkedin":"",
         "github":"",
+        "facebook":"",
         "profileImage":"",
         "website":""
     },
@@ -50,6 +55,7 @@
         "twitter":"",
         "linkedin":"",
         "github":"",
+        "facebook":"",
         "profileImage":"",
         "website":""
     }
