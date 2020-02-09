@@ -1,34 +1,33 @@
 {
-    "ChapterName":"GDG Jalandhar",
-    "ChapterShortDescription":"Google Developers Group Jalandhar is an initiative to concentrate the efforts of many developers in and around Punjab to learn, share and get productive using the various Google products.",
-    "ChapterLongDec":"Google Developer Group Jalandhar is inspired by GTUG/GDG Family . We started our journey in Feb 2011. We try to engage student developers, fresh graduates and professionals through our hack events & meetups. The motive is to create a local ecosystem of programmers & hackers in and around Jalandhar. The technology awareness is main goal for first few years of the group.",
-    "ChapterMeetupLink":"https://www.meetup.com/GDG-Jalandhar",
-    "ChapterEmail":"gdgjalandhar@gmail.com",
-    "website":"https://gdgjalandhar.com",
-    "GDGProgramWebsite":"https://developers.google.com/programs/community/",
-    "ChapterHashTags":["GDGJalandhar","WTMJalandhar","GDG","WTM"],
+    "ChapterName":"GDG Vilnius",
+    "ChapterShortDescription":"GDG Vilnius is an initiative to concentrate the efforts of many developers in and around Vilnius to learn, share and get productive using the various Google products.",
+    "ChapterLongDec":"GDG Vilnius is a place to discuss, learn, and share passion for technology. We focus on developer culture and rich technical content, with the ultimate goal to grow and expand interest in IT within Vilnius and beyond. All our events are free to attend for everyone and hosted by true technology advocates.",
+    "ChapterMeetupLink":"https://www.meetup.com/GDG-Vilnius",
+    "ChapterEmail":"info@gdg-vilnius.lt",
+    "website":"https://gdg-vilnius.com",
+    "GDGProgramWebsite":"http://developers.google.com/community/gdg/",
+    "ChapterHashTags":["GDGVilnius","GDG"],
     "socialLinks":[
         {
             "name" : "Facebook",
-            "link" : "https://www.facebook.com/GDGJalandhar/",
+            "link" : "https://www.facebook.com/gdgvilnius/",
             "icon" : "fab fa-facebook"
         },
         {
-            "name" : "Google Plus",
-            "link" : "https://plus.google.com/u/0/+GdgjalandharIn/posts",
-            "icon" : "fab fa-google-plus"
-        },
-        {
             "name" : "Twitter",
-            "link" : "https://twitter.com/gdgjalandhar",
+            "link" : "https://twitter.com/gdgvilnius",
             "icon" : "fab fa-twitter"
         },
         {
             "name" : "Meetup",
-            "link" : "https://www.meetup.com/GDG-Jalandhar/",
+            "link" : "https://www.meetup.com/GDG-Vilnius/",
             "icon" : "fab fa-meetup"
+        },
+        {
+            "name" : "LinkedIn",
+            "link" : "https://www.linkedin.com/company/gdg-vilnius/",
+            "icon" : "fab fa-linkedin-in"
         }
     ],
-    "wtmWebsite":"https://www.womentechmakers.com/",
-    "aboutGDGProgram":"GDGs are local groups of developers who are specifically interested in Google products and APIs. Each local group is called a GDG chapter and can host a variety of technical activities for developers - from just a few people getting together to watch our latest videos, to large gatherings with demos and tech talks, to hackathons."
+    "aboutGDGProgram":"GDGs are local groups of developers who are specifically interested in Google products and APIs. Each local group is called a GDG chapter and can host a variety of technical activities for developers - from just a few people getting together to watch our latest videos, to large gatherings with demos and tech talks, to hackathons. GDG Vilnius is an independent group; our activities and the opinions expressed here should in no way be linked to Google, the corporation. To learn more about the GDG program, visit https://developers.google.com/groups/"
 }
