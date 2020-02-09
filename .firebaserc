@@ -1,5 +1,17 @@
 {
   "projects": {
-    "default": "aura-client-master"
+    "default": "gdg-vilnius-aura"
+  },
+  "hosting": {
+    "public": "dist",
+    "rewrites": [{
+      "source": "**",
+      "destination": "/index.html"
+    }],
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
   }
 }
