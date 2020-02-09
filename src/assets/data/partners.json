@@ -5,9 +5,18 @@
         "img":"gdglogo.png"
     },
     {
-        "name":"GDG[x]",
-        "link":"https://github.com/gdg-x",
-        "img":"gdg-x.svg"
+        "name":"Vilnius JUG",
+        "link":"https://www.eventbrite.com/o/vilnius-jug-1967771651",
+        "img":"vilniusjug.png"
+    },
+    {
+        "name":"No Trolls Allowed",
+        "link":"https://notrollsallowed.com/",
+        "img":"notrollsallowed.png"
+    },
+    {
+        "name":"Vilnius Girls Code",
+        "link":"https://www.facebook.com/vilniusgirlscode/",
+        "img":"vilniusgirlscode.png"
     }
-
 ]
