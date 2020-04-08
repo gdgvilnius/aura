@@ -6,27 +6,27 @@
         "linkedin":"https://linkedin.com/in/viliusk/",
         "github":"https://github.com/ViliusKraujutis/",
         "facebook":"https://fb.me/viliusk",
-        "profileImage":"viliusk.jpg",
+        "profileImage":"ViliusK.jpg",
         "website":""
     },
     {
         "name":"Irena Poškienė",
-        "designation":"Developer",
+        "designation":"Application Developer at IBM",
         "twitter":"",
-        "linkedin":"",
+        "linkedin":"https://www.linkedin.com/in/irena-po%C5%A1kien%C4%97-876a69b9/",
         "github":"",
         "facebook":"",
-        "profileImage":"",
+        "profileImage":"IrenaP.jpg",
         "website":""
     },
     {
         "name":"Roman Kononov",
-        "designation":"Developer",
+        "designation":"Engineering Manager at Uber",
         "twitter":"",
-        "linkedin":"",
+        "linkedin":"https://www.linkedin.com/in/rkononov/",
         "github":"",
-        "facebook":"",
-        "profileImage":"",
+        "facebook":"https://www.facebook.com/roman.kononovv",
+        "profileImage":"RomanK.jpg",
         "website":""
     },
     {
@@ -36,27 +36,27 @@
         "linkedin":"https://www.linkedin.com/in/pauliussasnauskas/",
         "github":"https://github.com/PauliusSasnauskas",
         "facebook":"https://www.facebook.com/profile.php?id=100001362083156",
-        "profileImage":"",
+        "profileImage":"PauliusS.jpg",
         "website":""
     },
     {
         "name":"Martynas Bardauskas",
-        "designation":"Software Engineer",
-        "twitter":"",
-        "linkedin":"",
-        "github":"",
+        "designation":"Software Engineer / Mobile Guild Master at Wix.com",
+        "twitter":"https://twitter.com/mbardauskas",
+        "linkedin":"https://www.linkedin.com/in/mbardauskas/",
+        "github":"https://github.com/mbardauskas",
         "facebook":"",
-        "profileImage":"",
+        "profileImage":"MartynasB.jpg",
         "website":""
     },
     {
         "name":"Justas Medeišis",
-        "designation":"Software Engineer",
+        "designation":"Software Engineer at Trafi",
         "twitter":"",
-        "linkedin":"",
+        "linkedin":"https://www.linkedin.com/in/justas-medeisis/",
         "github":"",
-        "facebook":"",
-        "profileImage":"",
+        "facebook":"https://www.facebook.com/justasm",
+        "profileImage":"JustasM.jpg",
         "website":""
     }
 ]
